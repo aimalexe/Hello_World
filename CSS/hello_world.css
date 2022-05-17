@@ -1,3 +1,31 @@
 html{
-    
+    background-image: radial-gradient(ellipse  farthest-corner at center, rgb(247, 9, 148), rgb(33, 231, 231));
+}
+body{
+    background-color: rgb(59, 231, 231);
+    border: 3px solid rgb(212, 10, 128);
+    margin: 16% 100px;
+    padding: 10px 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h1{
+    color: rgb(245, 42, 160);
+    font-size: 50px;
+    text-align: center;
+    text-emphasis: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+p{
+    color: rgb(245, 17, 150);
+    font-size: 20px;
+    text-align: center;
+}
+blockquote{
+    color: rgb(245, 17, 150);
+    font-size: 20px;
+    text-align: center;
+}
+cite{
+    color: rgb(245, 17, 150);
+    font-size: 20px;
 }
