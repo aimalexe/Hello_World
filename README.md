@@ -9,7 +9,7 @@ As Mark Twain said:
 
 #### Untill now I have only started these languages:
 1. [x] Hyper Text Markup Language (**html**)
-    .MarkDown (**md**)
+    **MarkDown (**md**)
 2. [x] cascading Stylesheets (**css**)
 3. [x] JavaScript (**js**)
 
