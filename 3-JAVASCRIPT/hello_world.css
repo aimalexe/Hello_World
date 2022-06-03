@@ -1,0 +1,21 @@
+html{
+    background-image: radial-gradient(ellipse at center, red 20%, darkred);
+    background-repeat: repeat-y;
+}
+body{
+    padding: 10% 25%;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 200%;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    text-align: center;
+    font-size: 120%;
+}
