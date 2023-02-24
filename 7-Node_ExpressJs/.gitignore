@@ -1,0 +1,6 @@
+node_moules/
+
+*.exe
+*.dll
+*.so
+*.o
